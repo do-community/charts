@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  jenkins:
+  - appVersion: 2.121.1
+    created: 2018-09-25T06:15:32.881443885Z
+    description: Open source continuous integration server. It supports multiple SCM
+      tools including CVS, Subversion and Git. It can execute Apache Ant and Apache
+      Maven-based projects as well as arbitrary scripts.
+    digest: 7fdadc38398e324f742f5b119fc0498ad450368d41a19f2fde2f6acf837cea09
+    home: https://jenkins.io/
+    icon: https://wiki.jenkins-ci.org/download/attachments/2916393/logo.png
+    maintainers:
+    - email: lachlan.evenson@microsoft.com
+      name: lachie83
+    - email: viglesias@google.com
+      name: viglesiasce
+    name: jenkins
+    sources:
+    - https://github.com/jenkinsci/jenkins
+    - https://github.com/jenkinsci/docker-jnlp-slave
+    urls:
+    - jenkins-0.16.9.tgz
+    version: 0.16.9
+generated: 2018-09-25T06:15:32.877625693Z
